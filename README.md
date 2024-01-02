@@ -6,7 +6,7 @@ I'm Dipen, Second-Year Student from Edmonton, Canada.
 - 👨‍💻 Python, JavaScript, C
 - 👁️ HTML, CSS
 - 💽 MySQL, SQL, Mongo
-+ learning a lot more :)
+- + learning a lot more :)
 
 ## Contact
 - (dipenbachani@gmail.com) on Email
