@@ -1,5 +1,5 @@
 ## Hey! 👋
-I'm Dipen, Second-Year Student from Edmonton, Canada.
+I'm Dipen, Second-Year CS Student from Edmonton, Canada.
 
 
 ## Skills
