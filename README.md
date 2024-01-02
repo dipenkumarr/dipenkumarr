@@ -9,5 +9,5 @@ I'm Dipen, Second-Year Student from Edmonton, Canada.
 + and learning a lot more :)
 
 ## Contact
-- [dipenbachani@gmail.com]
+- [@dipenbachani](dipenbachani@gmail.com) on Email
 - [@dipen-kumar](www.linkedin.com/in/dipen-kumar) on LinkedIn
