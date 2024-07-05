@@ -1,11 +1,11 @@
 ## Hey! 👋
-I'm Dipen, Second-Year CS Student from Edmonton, Canada.
+I'm Dipen, Third-Year CS Student from Edmonton, Canada.
 
 
 ## Skills
-- 👨‍💻 Python, JavaScript, C
-- 👁️ HTML, CSS, React, Tailwind CSS
-- 💽 MySQL, SQLite, Mongo
+- 👨‍💻 Python, JavaScript, C/C++
+- 👁️ HTML, CSS, React, Next.js, Node.js, Express.js, Tailwind CSS
+- 💽 MySQL, SQLite, MongoDB
 - learning a lot more :)
 
 ## Contact
