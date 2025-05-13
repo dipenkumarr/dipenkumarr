@@ -2,7 +2,7 @@
 
 I’m **Dipen Kumar Maheshwari**, a 3rd-year Honors Computer Science student at the University of Alberta.
 
----
+
 
 ## 🚀 Skills
 
@@ -11,7 +11,7 @@ I’m **Dipen Kumar Maheshwari**, a 3rd-year Honors Computer Science student at 
 - **Tools & Platforms:** Docker · Azure Databricks · Git · Linux/Unix · Jira · Confluence  
 - **Databases:** MongoDB · PostgreSQL · MySQL · Firebase  
 
----
+
 
 ## 📫 Let’s Connect
 
