@@ -1,14 +1,20 @@
-## Hey! 👋
-I'm Dipen, Third-Year Honors CS Student from Edmonton, Canada.
+# Hey! 👋
 
+I’m **Dipen Kumar Maheshwari**, a 3rd-year Honors Computer Science student at the University of Alberta.
 
-## Skills
-- 👨‍💻 Python, JavaScript, TypeScript, Java, C/C++, Numpy, PyTorch
-- 👁️ HTML, CSS, React, Next.js, Node.js, Express.js, Tailwind CSS
-- 💽 MySQL, SQLite, MongoDB
-- 🛠️ Git, Github, RTK, Postman, Linux/Unix, Docker
-- learning a lot more :)
+---
 
-## Contact
-- dipenbachani@gmail.com on Email
-- www.linkedin.com/in/dipen-kumar on LinkedIn
+## 🚀 Skills
+
+- **Languages:** Python · TypeScript · JavaScript · Java · Go · C/C++ · SQL  
+- **Frameworks & Libraries:** React · Next.js · Node.js · Express · Tailwind CSS · PyTorch · LangChain  
+- **Tools & Platforms:** Docker · Azure Databricks · Git · Linux/Unix · Jira · Confluence  
+- **Databases:** MongoDB · PostgreSQL · MySQL · Firebase  
+
+---
+
+## 📫 Let’s Connect
+
+- ✉️ dipenkum@ualberta.ca  
+- 🔗 [linkedin.com/in/dipen-kumar](https://linkedin.com/in/dipen-kumar)  
+- 🌐 [Portfolio](https://dipen-kumar-portfolio.vercel.app/)  
