@@ -1,6 +1,6 @@
 # Hey! 👋
 
-I’m **Dipen Kumar Maheshwari**, a 3rd-year Honors Computer Science student at the University of Alberta.
+I’m **Dipen Kumar**, a Honors Computer Science student at the University of Alberta.
 
 
 
