@@ -1,20 +1,26 @@
-# Hey! 👋
+# Hey, I’m Dipen 👋
 
-I’m **Dipen Kumar**, a Honors Computer Science student at the University of Alberta.
+🎓 Honors Computer Science student @ University of Alberta (’27)  
+💻 Interested in **Software Engineering** & **Machine Learning**  
+📍 Currently: Machine Learning Engineer Intern @ SAP  
 
+---
 
+### 🚀 Skills
+- **Languages:** Python · TypeScript · JavaScript · Go · Java · C/C++ · SQL  
+- **Frameworks & Libraries:** React · Next.js · Node.js · PyTorch · LangChain  
+- **Cloud & Tools:** Docker · AWS · Azure Databricks · Git · Linux  
 
-## 🚀 Skills
+---
 
-- **Languages:** Python · TypeScript · JavaScript · Java · Go · C/C++ · SQL  
-- **Frameworks & Libraries:** React · Next.js · Node.js · Express · Tailwind CSS · PyTorch · LangChain  
-- **Tools & Platforms:** Docker · Azure Databricks · Git · Linux/Unix · Jira · Confluence  
-- **Databases:** MongoDB · PostgreSQL · MySQL · Firebase  
+### 🔬 Featured Projects
+- **[Hooked/ai](https://github.com/dipenkumarr/hooked-ai)** – AI-powered platform that converts podcasts into short-form videos.  
+- **[Slacked - CI/CD Notifier](https://github.com/dipenkumarr/slacked)** – Go microservice for real-time CI/CD notifications with AWS Lambda & SQS.  
+- **[SpotLotto](https://github.com/CMPUT301F24ocelot/ocelot-novels)** – Android lottery-based event system with real-time notifications & ML-powered QR scanning.  
 
+---
 
-
-## 📫 Let’s Connect
-
+### 📫 Let’s Connect
 - ✉️ dipenkum@ualberta.ca  
-- 🔗 [linkedin.com/in/dipen-kumar](https://linkedin.com/in/dipen-kumar)  
-- 🌐 [Portfolio](https://dipen-kumar-portfolio.vercel.app/)  
+- 🔗 [LinkedIn](https://linkedin.com/in/dipen-kumar)  
+- 🌐 [Portfolio](https://dipenkumar.vercel.app)
