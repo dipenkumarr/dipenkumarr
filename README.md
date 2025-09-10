@@ -2,4 +2,4 @@
 
 🎓 Computer Science Honors @ University of Alberta (’27)  
 💻 Interested in **Software Engineering** & **Machine Learning**  
-📍 Currently: Machine Learning Engineer Intern @ SAP  
+📍 Currently: Machine Learning Developer Intern @ AltaML  
