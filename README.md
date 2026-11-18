@@ -1,5 +1,6 @@
-# Hey, I’m Dipen 👋
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/ascii-ribbon.png">
+  <img src="./assets/ascii-ribbon.gif" width="100%" alt="A rotating Möbius strip drawn in green ASCII characters">
+</picture>
 
-🎓 CS Honors @ University of Alberta (’27)  
-📍 Looking for **2027 New Grad** roles  
-💼 Prev: Software Engineer Intern @ Ripple, SAP, AltaML
+<p align="right"><a href="https://github.com/dipenkumarr?tab=repositories">Repositories</a> &nbsp; <a href="https://dipenkumar.vercel.app/">Portfolio</a></p>
