@@ -1,6 +1,7 @@
-<picture>
-  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/ascii-ribbon.png">
-  <img src="./assets/ascii-ribbon.gif" width="100%" alt="A rotating Möbius strip drawn in green ASCII characters">
-</picture>
+<p align="center">
+  <img src="./assets/ascii-ribbon-loop.gif" width="100%" alt="A green Möbius strip drawn in ASCII characters, spinning on a dotted grid">
+</p>
 
-<p align="right"><a href="https://github.com/dipenkumarr?tab=repositories">Repositories</a> &nbsp; <a href="https://dipenkumar.vercel.app/">Portfolio</a></p>
+<p align="center">
+  <a href="https://github.com/dipenkumarr?tab=repositories"><img src="./assets/repositories.png" width="50%" alt="Repositories"></a><a href="https://dipenkumar.vercel.app/"><img src="./assets/portfolio.png" width="50%" alt="Portfolio"></a>
+</p>
